@@ -1,1 +1,0 @@
-SmartLink App Store Storage.
